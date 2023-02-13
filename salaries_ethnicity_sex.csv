@@ -1,0 +1,253 @@
+variable,variable_en,variable_bm,sex,year,mean,median,recipients
+overall,Overall,Keseluruhan,overall,2010,1792.0,1300.0,8414600
+overall,Overall,Keseluruhan,overall,2011,1809.0,1320.0,8983400
+overall,Overall,Keseluruhan,overall,2012,1906.0,1450.0,9166200
+overall,Overall,Keseluruhan,overall,2013,2023.0,1500.0,9540600
+overall,Overall,Keseluruhan,overall,2014,2193.0,1500.0,10146600
+overall,Overall,Keseluruhan,overall,2015,2312.0,1600.0,10150400
+overall,Overall,Keseluruhan,overall,2016,2462.5948368305612,1703.0,10155900
+overall,Overall,Keseluruhan,overall,2017,2650.0,1880.0,10516900
+overall,Overall,Keseluruhan,overall,2018,2841.5584281432034,2066.0,10494800
+overall,Overall,Keseluruhan,overall,2019,2989.359918155756,2185.0,10955300
+overall,Overall,Keseluruhan,overall,2020,2747.0,1894.0,10972000
+overall,Overall,Keseluruhan,overall,2021,2843.6,1984.0,11164900
+citizen,Citizen,Warganegara,overall,2010,1936.0,1500.0,7149200
+citizen,Citizen,Warganegara,overall,2011,1959.0,1500.0,7634000
+citizen,Citizen,Warganegara,overall,2012,2052.0,1566.0,7782900
+citizen,Citizen,Warganegara,overall,2013,2186.0,1700.0,7903100
+citizen,Citizen,Warganegara,overall,2014,2377.0,1800.0,8392400
+citizen,Citizen,Warganegara,overall,2015,2487.0,1942.0,8348600
+citizen,Citizen,Warganegara,overall,2016,2657.0,2000.0,8424100
+citizen,Citizen,Warganegara,overall,2017,2879.0,2160.0,8677100
+citizen,Citizen,Warganegara,overall,2018,3087.0,2308.0,8761200
+citizen,Citizen,Warganegara,overall,2019,3223.725732210905,2442.0,9195200
+citizen,Citizen,Warganegara,overall,2020,2933.0,2062.0,9390700
+citizen,Citizen,Warganegara,overall,2021,3036.9,2250.0,9711900
+bumiputera,Bumiputera,Bumiputera,overall,2010,1873.0,1465.0,4622700
+bumiputera,Bumiputera,Bumiputera,overall,2011,1853.0,1475.0,4888700
+bumiputera,Bumiputera,Bumiputera,overall,2012,1948.0,1500.0,5003800
+bumiputera,Bumiputera,Bumiputera,overall,2013,2110.0,1600.0,5072000
+bumiputera,Bumiputera,Bumiputera,overall,2014,2286.0,1729.0,5480200
+bumiputera,Bumiputera,Bumiputera,overall,2015,2398.0,1800.0,5531900
+bumiputera,Bumiputera,Bumiputera,overall,2016,2561.0,1931.0,5539500
+bumiputera,Bumiputera,Bumiputera,overall,2017,2762.0,2145.0,5707500
+bumiputera,Bumiputera,Bumiputera,overall,2018,2961.6811372307775,2302.0,5800600
+bumiputera,Bumiputera,Bumiputera,overall,2019,3116.0,2415.0,6222600
+bumiputera,Bumiputera,Bumiputera,overall,2020,2817.0,2019.0,6437700
+bumiputera,Bumiputera,Bumiputera,overall,2021,2902.6,2127.0,6641300
+chinese,Chinese,Cina,overall,2010,2167.0,1800.0,1852900
+chinese,Chinese,Cina,overall,2011,2260.0,1800.0,2033300
+chinese,Chinese,Cina,overall,2012,2353.0,2000.0,2062199
+chinese,Chinese,Cina,overall,2013,2444.0,2000.0,2086699
+chinese,Chinese,Cina,overall,2014,2675.0,2000.0,2154800
+chinese,Chinese,Cina,overall,2015,2812.0,2300.0,2067699
+chinese,Chinese,Cina,overall,2016,3009.0,2350.0,2125600
+chinese,Chinese,Cina,overall,2017,3254.0,2440.0,2184500
+chinese,Chinese,Cina,overall,2018,3498.3055261320696,2460.0,2166700
+chinese,Chinese,Cina,overall,2019,3616.0,2597.0,2124800
+chinese,Chinese,Cina,overall,2020,3325.0,2470.0,2162400
+chinese,Chinese,Cina,overall,2021,3487.8,2734.0,2277100
+indian,Indian ,India,overall,2010,1780.0,1300.0,616800
+indian,Indian ,India,overall,2011,1863.0,1300.0,668000
+indian,Indian ,India,overall,2012,1949.0,1500.0,666200
+indian,Indian ,India,overall,2013,2032.0,1500.0,688500
+indian,Indian ,India,overall,2014,2241.0,1600.0,707300
+indian,Indian ,India,overall,2015,2291.0,1771.0,689700
+indian,Indian ,India,overall,2016,2399.0,1790.0,700600
+indian,Indian ,India,overall,2017,2731.0,2000.0,721600
+indian,Indian ,India,overall,2018,2925.3269715268166,2122.0,725500
+indian,Indian ,India,overall,2019,3108.0,2217.0,758300
+indian,Indian ,India,overall,2020,2853.0,2014.0,736400
+indian,Indian ,India,overall,2021,2913.5,1930.0,738700
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2010,1146.0,900.0,56800
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2011,1232.0,900.0,44000
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2012,1394.0,950.0,50700
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2013,1291.0,900.0,55900
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2014,1446.0,1086.0,50100
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2015,1825.0,1500.0,59300
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2016,2009.0,1515.0,58300
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2017,2191.0,1600.0,63500
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2018,2345.0497911646007,1732.0,68500
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2019,2401.0,1836.0,89300
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2020,2161.0,1412.0,54100
+other_citizen,Other (Citizen),Lain-lain (Warganegara),overall,2021,2244.9,1582.0,54800
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2010,978.0,750.0,1265400
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2011,965.0,800.0,1349399
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2012,1086.0,875.0,1383300
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2013,1237.0,950.0,1637500
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2014,1311.0,1000.0,1754200
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2015,1502.0,1138.0,1801799
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2016,1518.0,1200.0,1731900
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2017,1570.0,1335.0,1839700
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2018,1603.0,1392.0,1733599
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2019,1765.0,1452.0,1760099
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2020,1644.0,1260.0,1581300
+other_noncitizen,Non-Citizen,Bukan Warganegara,overall,2021,1551.5,1339.0,1453000
+overall,Overall,Keseluruhan,male,2010,1823.3081122929336,1300.0,5440800
+overall,Overall,Keseluruhan,male,2011,1841.7678773708444,1350.0,5774200
+overall,Overall,Keseluruhan,male,2012,1933.3286490409862,1427.0,5874400
+overall,Overall,Keseluruhan,male,2013,2048.497923851892,1500.0,6113400
+overall,Overall,Keseluruhan,male,2014,2232.042142874269,1511.0,6420800
+overall,Overall,Keseluruhan,male,2015,2345.1301333000724,1600.0,6497700
+overall,Overall,Keseluruhan,male,2016,2500.40230867142,1721.0,6393100
+overall,Overall,Keseluruhan,male,2017,2677.7686199374175,1880.0,6571200
+overall,Overall,Keseluruhan,male,2018,2864.405529392426,2081.0,6560500
+overall,Overall,Keseluruhan,male,2019,3021.6084190912757,2185.0,6775300
+overall,Overall,Keseluruhan,male,2020,2756.0,1893.0,6683000
+overall,Overall,Keseluruhan,male,2021,2865.6,2027.0,6731200
+citizen,Citizen,Warganegara,male,2010,2003.0,1500.0,4432600
+citizen,Citizen,Warganegara,male,2011,2035.0,1500.0,4680100
+citizen,Citizen,Warganegara,male,2012,2126.0,1600.0,4745000
+citizen,Citizen,Warganegara,male,2013,2259.0,1800.0,4784200
+citizen,Citizen,Warganegara,male,2014,2455.0,1888.0,5070700
+citizen,Citizen,Warganegara,male,2015,2558.0,2000.0,5049400
+citizen,Citizen,Warganegara,male,2016,2741.0,2000.0,5034400
+citizen,Citizen,Warganegara,male,2017,2953.0,2170.0,5151200
+citizen,Citizen,Warganegara,male,2018,3174.0,2342.0,5209800
+citizen,Citizen,Warganegara,male,2019,3303.5449018515005,2477.0,5435900
+citizen,Citizen,Warganegara,male,2020,2963.0,2093.0,5551000
+citizen,Citizen,Warganegara,male,2021,3084.7,2315.0,5733900
+bumiputera,Bumiputera,Bumiputera,male,2010,1913.0,1483.0,2885200
+bumiputera,Bumiputera,Bumiputera,male,2011,1887.0,1500.0,3039400
+bumiputera,Bumiputera,Bumiputera,male,2012,1995.0,1500.0,3080300
+bumiputera,Bumiputera,Bumiputera,male,2013,2140.0,1625.0,3106900
+bumiputera,Bumiputera,Bumiputera,male,2014,2318.0,1770.0,3352400
+bumiputera,Bumiputera,Bumiputera,male,2015,2428.0,1800.0,3388800
+bumiputera,Bumiputera,Bumiputera,male,2016,2607.0,1940.0,3357200
+bumiputera,Bumiputera,Bumiputera,male,2017,2778.0,2160.0,3456700
+bumiputera,Bumiputera,Bumiputera,male,2018,2981.021073915445,2310.0,3524700
+bumiputera,Bumiputera,Bumiputera,male,2019,3109.0,2415.0,3761500
+bumiputera,Bumiputera,Bumiputera,male,2020,2801.0,2030.0,3873700
+bumiputera,Bumiputera,Bumiputera,male,2021,2923.1,2167.0,3986500
+chinese,Chinese,Cina,male,2010,2277.0,1800.0,1117900
+chinese,Chinese,Cina,male,2011,2421.0,2000.0,1195200
+chinese,Chinese,Cina,male,2012,2485.0,2000.0,1213700
+chinese,Chinese,Cina,male,2013,2617.0,2000.0,1225800
+chinese,Chinese,Cina,male,2014,2856.0,2200.0,1247700
+chinese,Chinese,Cina,male,2015,2983.0,2400.0,1191800
+chinese,Chinese,Cina,male,2016,3172.0,2500.0,1211900
+chinese,Chinese,Cina,male,2017,3486.0,2500.0,1228300
+chinese,Chinese,Cina,male,2018,3768.6174501896517,2619.0,1203900
+chinese,Chinese,Cina,male,2019,3926.0,3140.0,1178600
+chinese,Chinese,Cina,male,2020,3484.0,2709.0,1206300
+chinese,Chinese,Cina,male,2021,3615.6,2886.0,1278700
+indian,Indian ,India,male,2010,1964.0,1500.0,391700
+indian,Indian ,India,male,2011,2049.0,1500.0,419300
+indian,Indian ,India,male,2012,2116.0,1500.0,418900
+indian,Indian ,India,male,2013,2172.0,1700.0,418600
+indian,Indian ,India,male,2014,2431.0,1800.0,439100
+indian,Indian ,India,male,2015,2450.0,1900.0,429200
+indian,Indian ,India,male,2016,2645.0,1970.0,427300
+indian,Indian ,India,male,2017,2921.0,2000.0,428500
+indian,Indian ,India,male,2018,3177.7557622289337,2258.0,438700
+indian,Indian ,India,male,2019,3415.0,2525.0,438100
+indian,Indian ,India,male,2020,3016.0,2062.0,439400
+indian,Indian ,India,male,2021,3068.7,2057.0,434400
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2010,1201.0,900.0,37800
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2011,1379.0,900.0,26100
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2012,1262.0,990.0,32100
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2013,1334.0,1000.0,32900
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2014,1385.0,1100.0,31500
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2015,2030.0,1600.0,39600
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2016,1862.0,1515.0,38000
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2017,2050.0,1550.0,37700
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2018,2271.5494031702065,1797.0,42600
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2019,2427.0,1900.0,57600
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2020,2144.0,1547.0,31700
+other_citizen,Other (Citizen),Lain-lain (Warganegara),male,2021,2268.7,1642.0,34300
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2010,1033.0,800.0,1008199
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2011,1016.0,800.0,1094099
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2012,1122.0,900.0,1129399
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2013,1289.0,1000.0,1329199
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2014,1396.0,1100.0,1350100
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2015,1604.0,1200.0,1448400
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2016,1609.0,1252.0,1358800
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2017,1678.0,1335.0,1420000
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2018,1671.0,1439.0,1350699
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2019,1877.4206593060383,1540.0,1339400
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2020,1741.0,1350.0,1132000
+other_noncitizen,Non-Citizen,Bukan Warganegara,male,2021,1606.1,1412.0,997300
+overall,Overall,Keseluruhan,female,2010,1733.0,1320.0,2973799
+overall,Overall,Keseluruhan,female,2011,1751.0,1300.0,3209200
+overall,Overall,Keseluruhan,female,2012,1857.0,1500.0,3291800
+overall,Overall,Keseluruhan,female,2013,1977.0,1500.0,3427200
+overall,Overall,Keseluruhan,female,2014,2125.0,1500.0,3725800
+overall,Overall,Keseluruhan,female,2015,2254.0,1600.0,3652700
+overall,Overall,Keseluruhan,female,2016,2398.0,1685.0,3762799
+overall,Overall,Keseluruhan,female,2017,2605.0,1865.0,3945600
+overall,Overall,Keseluruhan,female,2018,2804.0,2028.0,3934300
+overall,Overall,Keseluruhan,female,2019,2937.0,2206.0,4180000
+overall,Overall,Keseluruhan,female,2020,2733.0,1911.0,4289000
+overall,Overall,Keseluruhan,female,2021,2810.2,1929.0,4433700
+citizen,Citizen,Warganegara,female,2010,1825.0,1498.0,2716600
+citizen,Citizen,Warganegara,female,2011,1838.0,1467.0,2953900
+citizen,Citizen,Warganegara,female,2012,1935.0,1500.0,3037900
+citizen,Citizen,Warganegara,female,2013,2072.0,1600.0,3118900
+citizen,Citizen,Warganegara,female,2014,2259.0,1700.0,3321800
+citizen,Citizen,Warganegara,female,2015,2380.0,1855.0,3299200
+citizen,Citizen,Warganegara,female,2016,2532.0,2000.0,3389700
+citizen,Citizen,Warganegara,female,2017,2772.0,2145.0,3525900
+citizen,Citizen,Warganegara,female,2018,2959.0,2227.0,3551400
+citizen,Citizen,Warganegara,female,2019,3108.307588832497,2370.0,3759300
+citizen,Citizen,Warganegara,female,2020,2889.0,2019.0,3839600
+citizen,Citizen,Warganegara,female,2021,2968.1,2145.0,3978000
+bumiputera,Bumiputera,Bumiputera,female,2010,1808.0,1442.0,1737500
+bumiputera,Bumiputera,Bumiputera,female,2011,1797.0,1400.0,1849300
+bumiputera,Bumiputera,Bumiputera,female,2012,1871.0,1500.0,1923500
+bumiputera,Bumiputera,Bumiputera,female,2013,2062.0,1560.0,1965100
+bumiputera,Bumiputera,Bumiputera,female,2014,2236.0,1675.0,2127900
+bumiputera,Bumiputera,Bumiputera,female,2015,2350.0,1745.0,2143100
+bumiputera,Bumiputera,Bumiputera,female,2016,2490.0,1915.0,2182300
+bumiputera,Bumiputera,Bumiputera,female,2017,2739.0,2145.0,2250900
+bumiputera,Bumiputera,Bumiputera,female,2018,2931.7296911263816,2284.0,2275900
+bumiputera,Bumiputera,Bumiputera,female,2019,3126.0,2415.0,2461100
+bumiputera,Bumiputera,Bumiputera,female,2020,2840.0,2019.0,2564000
+bumiputera,Bumiputera,Bumiputera,female,2021,2871.7,1999.0,2654700
+chinese,Chinese,Cina,female,2010,2000.0,1527.0,735000
+chinese,Chinese,Cina,female,2011,2029.0,1600.0,838100
+chinese,Chinese,Cina,female,2012,2164.0,1800.0,848400
+chinese,Chinese,Cina,female,2013,2199.0,1800.0,860900
+chinese,Chinese,Cina,female,2014,2426.0,2000.0,907100
+chinese,Chinese,Cina,female,2015,2579.0,2000.0,875900
+chinese,Chinese,Cina,female,2016,2793.0,2160.0,913700
+chinese,Chinese,Cina,female,2017,2956.0,2260.0,956200
+chinese,Chinese,Cina,female,2018,3160.3080034707673,2270.0,962800
+chinese,Chinese,Cina,female,2019,3229.0,2512.0,946200
+chinese,Chinese,Cina,female,2020,3123.0,2371.0,956200
+chinese,Chinese,Cina,female,2021,3324.2,2499.0,998400
+indian,Indian ,India,female,2010,1460.0,1005.0,225100
+indian,Indian ,India,female,2011,1550.0,1000.0,248700
+indian,Indian ,India,female,2012,1665.0,1210.0,247300
+indian,Indian ,India,female,2013,1816.0,1300.0,269900
+indian,Indian ,India,female,2014,1930.0,1300.0,268300
+indian,Indian ,India,female,2015,2029.0,1500.0,260600
+indian,Indian ,India,female,2016,2013.0,1400.0,273300
+indian,Indian ,India,female,2017,2452.0,1700.0,293100
+indian,Indian ,India,female,2018,2539.1779034258684,1748.0,286800
+indian,Indian ,India,female,2019,2688.0,1783.0,320200
+indian,Indian ,India,female,2020,2612.0,1817.0,297000
+indian,Indian ,India,female,2021,2692.0,1803.0,304200
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2010,1038.0,920.0,19100
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2011,1016.0,800.0,17900
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2012,1621.0,950.0,18700
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2013,1229.0,850.0,23000
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2014,1549.0,1000.0,18600
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2015,1412.0,1080.0,19700
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2016,2283.0,1560.0,20400
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2017,2395.0,1600.0,25800
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2018,2465.569612260473,1561.0,26000
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2019,2355.0,1577.0,31700
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2020,2184.0,1212.0,22500
+other_citizen,Other (Citizen),Lain-lain (Warganegara),female,2021,2205.3,1340.0,20600
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2010,761.0,600.0,257200
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2011,745.0,600.0,255300
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2012,924.0,700.0,253900
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2013,1010.0,800.0,308400
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2014,1025.0,829.0,404100
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2015,1086.0,826.0,353500
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2016,1184.0,910.0,373100
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2017,1205.0,1060.0,419700
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2018,1364.0,1258.0,382800
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2019,1407.0,1270.0,420700
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2020,1398.0,1140.0,449300
+other_noncitizen,Non-Citizen,Bukan Warganegara,female,2021,1431.9,1220.0,455700
