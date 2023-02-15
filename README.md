@@ -17,3 +17,12 @@ Description: Personal project (Gsheet ingestion)
 Main Tools Involved:
 1. Python (*IDE - Visual Studio Code*)
 2. Google Cloud Platform account (*For ingesting data into BigQuery*)
+
+Workflow : 
+
+Determine credentials for permission to view the spreadsheet.
+
+Write ‘Extract-Load’ (EL) pipeline code to extract data from source and load into Google BigQuery.
+
+Data successfully ingested into Google BigQuery.
+
