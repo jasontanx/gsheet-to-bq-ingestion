@@ -1,3 +1,10 @@
+"""
+Step 3:
+Load to bq
+>> Ingest data into bigquery table
+
+"""
+
 from google.cloud import bigquery
 import logging
 import time
@@ -30,6 +37,6 @@ def load_to_bq(bq_client, table_bq, df):
     job_config = bigquery.LoadJobConfig()
     job_config.write_disposition="WRITE_TRUNCATE" # "WRITE_APPEND" as alternative
     job = bq_client.load_table_from_dataframe(
-        df, table_bq, job_config=job_config) 
-    job.result() 
+        df, table_bq, job_config=job_config)
+    job.result()
     logger.info("Data ingested to BQ -> %s", table_bq)
