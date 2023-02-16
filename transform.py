@@ -8,6 +8,7 @@ transformation
 import pandas as pd
 from datetime import datetime
 from google.cloud import bigquery
+from load_to_bq import load_to_bq
 
 def transform(data, headers):
     df = pd.DataFrame(data, columns=headers)
@@ -18,7 +19,8 @@ def transform(data, headers):
 
     '''
     insertDate = datetime.utcnow()
-    bq_client = bigquery.Client.from_service_account_json("/Users/junshengtan/Desktop/ghseet-to-bq-ingestion/secret_key.json")
-    table_bq = 'myfirstproject-364809.socio-demographic.salaries_ethnicity_sex' # project.dataset.table
+    bq_client = bigquery.Client.from_service_account_json("secret_key.json")
+    table_bq = 'myfirstproject-364809.socio_demographic.salaries_ethnicity_sex' # project.dataset.table
     df['insert_date'] = insertDate
+    load_to_bq(bq_client, table_bq, df)
 
