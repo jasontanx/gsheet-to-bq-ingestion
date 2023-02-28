@@ -34,3 +34,8 @@ Data successfully ingested to BQ
 
 ![git_11_gsheet_bq](https://user-images.githubusercontent.com/116934441/219685908-c9e56852-f4b4-4b57-b760-b691fbd7d94f.png)
 
+**Useful Reference**
+
+1. Connect Google Sheets & BigQuery - Connected Sheets --> [Video 1](https://www.youtube.com/watch?v=sfgaZvAmcLs)
+
+2. Google Sheets - Python API, Read & Write Data --> [Video 2](https://www.youtube.com/watch?v=4ssigWmExak&list=LL&index=53) 
